@@ -1,3 +1,13 @@
+# fourPNO 1.1.0
+
+## Changes
+
+- Modified function signature to remove unused returns.
+
+## Documentation
+
+- Fixed missing statements in documentation.
+
 # fourPNO 1.0.5
 
 ## Changes
